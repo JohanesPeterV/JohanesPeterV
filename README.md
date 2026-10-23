@@ -4,7 +4,7 @@
 
 <p>
   <strong>Lead Software Engineer at <a href="https://smilie.io">Smilie</a></strong><br>
-  Web products, operational tools and interactive experiences.
+  Build web products and the tools behind them, from the first idea to everyday use.
 </p>
 
 <p>
@@ -20,11 +20,16 @@
 
 ## 👋 About
 
-Product development from scope and design through implementation and release.
-Current work at Smilie spans corporate gifting, custom merchandise and rewards,
-connecting customer-facing apps with tools for orders, stock and delivery.
+Shape products and build them end to end, from working out what people need to
+designing interfaces and shipping the software behind them.
 
-The focus: clear interfaces, reliable workflows and maintainable code.
+At Smilie, develop corporate gifting, merchandise and rewards platforms. Connect
+the customer experience with the tools the team uses to manage quotations, orders,
+stock and deliveries.
+
+Focus on clear interfaces, reliable workflows and code that stays easy to understand.
+Beyond Smilie, build and maintain Knots and Pomodoro Planter, bringing the same
+attention to everyday use, interaction and visual design.
 
 ---
 
@@ -32,11 +37,11 @@ The focus: clear interfaces, reliable workflows and maintainable code.
 
 | Area | Work |
 | --- | --- |
-| 🎁 Storefront | Product browsing, customisation, quantity pricing, checkout and company credits. |
-| 📦 Gift management | Recipient campaigns, stock management, courier booking and delivery tracking. |
-| 🛍️ Custom merchandise | Quotations, customer approvals, production documents and inventory reservations. |
-| 🎟️ Rewards | Digital vouchers, points wallets, provider integrations and redemption flows. |
-| 🛠️ Internal tools | Catalogue imports, reusable forms and improvements to day-to-day operations. |
+| 🎁 Storefront | Build product browsing, customisation, quantity pricing, checkout and company credit flows. |
+| 📦 Gift management | Connect recipient campaigns, stock management, courier booking and delivery tracking. |
+| 🛍️ Custom merchandise | Develop quote-to-production workflows covering customer approvals, production documents and inventory reservations. |
+| 🎟️ Rewards | Integrate voucher providers and build points wallets, digital redemptions and retries for stuck activations. |
+| 🛠️ Internal tools | Automate catalogue imports and build reusable forms and tools that simplify day-to-day operations. |
 
 ---
 
@@ -63,9 +68,9 @@ The focus: clear interfaces, reliable workflows and maintainable code.
 
 ## 🌱 Projects
 
-- **[Knots](https://knots.work)** — A shared workspace for tickets, chat, calls and whiteboards.
-- **[Pomodoro Planter](https://pomoplanter.com)** — A focus timer where your garden grows as you work.
-- **[Portfolio](https://johanespetervincentius.my.id)** — Work, projects and interactive 3D experiences built with Three.js and React Three Fiber.
+- **[Knots](https://knots.work)** — Bring tickets, chat, calls and whiteboards into one workspace, with GitHub integration and MCP access for AI assistants.
+- **[Pomodoro Planter](https://pomoplanter.com)** — Turn focus sessions into a growing garden, with saved progress and timers that stay in sync across devices.
+- **[Portfolio](https://johanespetervincentius.my.id)** — Present product work through interactive 3D scenes and animation built with Next.js, Three.js and React Three Fiber.
 
 ---
 
