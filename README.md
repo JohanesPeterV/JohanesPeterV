@@ -20,28 +20,38 @@
 
 ## 👋 About
 
-Shape products and build them end to end, from working out what people need to
-designing interfaces and shipping the software behind them.
+Lead engineering at Smilie across commerce, corporate gifting and rewards, from
+product scope and architecture to production delivery. Connect customer purchases
+and redemptions with the systems behind pricing, payments, stock, fulfilment and
+reconciliation.
 
-At Smilie, develop corporate gifting, merchandise and rewards platforms. Connect
-the customer experience with the tools the team uses to manage quotations, orders,
-stock and deliveries.
-
-Focus on clear interfaces, reliable workflows and code that stays easy to understand.
-Beyond Smilie, build and maintain Knots and Pomodoro Planter, bringing the same
-attention to everyday use, interaction and visual design.
+Build across backend workflows, shared frontend architecture and product interaction.
+Beyond Smilie, develop Knots with Next.js, Convex and Electron, maintain Pomodoro
+Planter, and create interactive 3D experiences with Three.js and React Three Fiber.
 
 ---
 
-## 🧩 Work at Smilie
+## 🧩 Engineering Highlights
 
-| Area | Work |
-| --- | --- |
-| 🎁 Storefront | Build product browsing, customisation, quantity pricing, checkout and company credit flows. |
-| 📦 Gift management | Connect recipient campaigns, stock management, courier booking and delivery tracking. |
-| 🛍️ Custom merchandise | Develop quote-to-production workflows covering customer approvals, production documents and inventory reservations. |
-| 🎟️ Rewards | Integrate voucher providers and build points wallets, digital redemptions and retries for stuck activations. |
-| 🛠️ Internal tools | Automate catalogue imports and build reusable forms and tools that simplify day-to-day operations. |
+- 🧾 **Payment consistency:** Unify **three payment paths** at Smilie—Stripe webhooks,
+  checkout returns and reconciliation—behind one settlement implementation, using
+  conditional state transitions to handle duplicate callbacks and recover missed confirmations.
+- 🔁 **Durable background work:** Build Xero invoice retries that reclaim interrupted
+  work and reject stale worker results, preserving the initiating user across
+  background execution.
+- ⚡ **Frontend performance:** Cut **three storefront font files by 42.6%**
+  (**125.4 kB → 72.0 kB**) by converting OTF assets to WOFF2.
+- 🧪 **CI architecture:** Parallelise verification across **four CI lanes**, cache
+  database test results by their dependencies, and reuse application builds for
+  browser tests.
+- 📦 **Inventory correctness:** Validate supplier stock snapshots under database
+  locks, require complete variant coverage, and reject stale or mismatched updates
+  before they overwrite availability.
+- 🤖 **AI automation:** Generate catalogue copy from supplier specifications, validate
+  structured model responses, and cache completed products so reruns reuse existing output.
+- 🧱 **Shared frontend architecture:** Unified UI across Next.js and Vite applications
+  at TableLink and documented **19 components in Storybook**. Supported **12 engineers**
+  through reviews, releases and developer tooling.
 
 ---
 
