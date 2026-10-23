@@ -4,7 +4,7 @@
 
 <p>
   <strong>Lead Software Engineer at <a href="https://smilie.io">Smilie</a></strong><br>
-  I build web products and the tools behind them, from the first idea to everyday use.
+  Web products, operational tools and interactive experiences.
 </p>
 
 <p>
@@ -20,16 +20,15 @@
 
 ## 👋 About
 
-I'm Peter, a software engineer who enjoys both shaping a product and building it.
-At Smilie, I work on corporate gifting, merchandise and rewards, including the
-customer experience and the tools our team uses to manage orders and deliveries.
+Product development from scope and design through implementation and release.
+Current work at Smilie spans corporate gifting, custom merchandise and rewards,
+connecting customer-facing apps with tools for orders, stock and delivery.
 
-I care about clear interfaces, reliable workflows and code that is easy to understand.
-Outside work, I build small products and experiment with interaction and animation.
+The focus: clear interfaces, reliable workflows and maintainable code.
 
 ---
 
-## 🧩 What I Work On at Smilie
+## 🧩 Work at Smilie
 
 | Area | Work |
 | --- | --- |
@@ -52,20 +51,21 @@ Outside work, I build small products and experiment with interaction and animati
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Tech Stack
 
 - **Frontend:** TypeScript, React, Next.js, Tailwind CSS, shadcn/ui
 - **Backend & data:** Node.js, PostgreSQL, Prisma, tRPC, Convex
 - **Product & delivery:** Git, Vercel, Playwright
-- **Experiments:** Three.js, React Three Fiber, Electron
+- **3D & interaction:** Three.js, React Three Fiber
+- **Desktop:** Electron
 
 ---
 
-## 🌱 Side Projects
+## 🌱 Projects
 
 - **[Knots](https://knots.work)** — A shared workspace for tickets, chat, calls and whiteboards.
 - **[Pomodoro Planter](https://pomoplanter.com)** — A focus timer where your garden grows as you work.
-- **[Portfolio](https://johanespetervincentius.my.id)** — My work, projects and experiments with 3D web interactions.
+- **[Portfolio](https://johanespetervincentius.my.id)** — Work, projects and interactive 3D experiences built with Three.js and React Three Fiber.
 
 ---
 
